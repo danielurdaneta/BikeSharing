@@ -28,8 +28,25 @@ The heatmap shows that males tend to be subscribed to the service and "unknown" 
 
 These line charts shows that most of the rides tend to last between 1 to 10 minutes for all genders.
 
+<br/>
+
 ![chart1](https://user-images.githubusercontent.com/81272629/126879887-f0d99f82-9b8c-4da4-aac7-f7084baf80e9.png)
+
+<br/>
+
+This heatmap shows that the peak of users is found on Thursdays and Fridays between 5 and 6 pm.
+
+<br/>
 
 ![chart1](https://user-images.githubusercontent.com/81272629/126879928-3ca309c5-a5ba-483f-b08e-f4d2388a5c3d.png)
 
+<br/>
 
+In this heatmap we can see a considerably higher amount of males using the service during late hours than other genders.
+
+## Summary
+
+- As we can see, males are the ones that use the service the most, which is something to take on account while looking to where to place the bike station or to do promotion.
+- On weekdays people usually use the bikes to commute with a peak hour between 5 and 6pm.
+- Most of the rides last between 0 to 10 minutes and males tend to be subscribed which is something to take on account while setting the cost of the service.
+- We can make two more graphs, one to see where people tend to take the bike and another one to see where they tend to drop it, this information can be useful to find patterns in these behaviors and the location.
